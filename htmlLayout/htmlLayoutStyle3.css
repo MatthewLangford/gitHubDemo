@@ -1,0 +1,30 @@
+header{
+    background-color: lightgray;
+    height: 19vh;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.box{
+    background-color: #558eff;
+    width: 18vh;
+    height: 18vh;
+}
+main{
+    margin: 5vh;
+}
+.div1{
+    background-color: #558eff;
+    height: 19vh;
+}
+.div2{
+    background-color: lightgreen;
+    height: 19vh;
+}
+.div3{
+   background-color: olive;
+    height: 19vh;
+}
+.div4{
+    background-color: yellow;
+    height: 19vh;
+}

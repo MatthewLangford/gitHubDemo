@@ -1,0 +1,21 @@
+
+.left{
+    background-color: lightblue;
+    height: 100vh;
+    width: 33.3%;
+    float: left;
+}
+.mid{
+    background-color: lightgreen;
+    width: 33.3%;
+    height: 100vh;
+    float: left;
+
+}
+.right{
+    background-color: #fffc82;
+    width: 33.3%;
+    height: 100vh;
+    float: left;
+
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+.top{
+    height: 150px;
+    background-color: #464646;
+}
+
+.left{
+    height: 720px;
+    width: 150px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 0%;
+}
+.right{
+    height: 720px;
+    width: 150px;
+    background-color: lightgrey;
+    float: right;
+    margin-right: 0%;
+}
+.bottom{
+    height: 100px;
+    background-color: #464646;
+    position: absolute;
+    bottom: 0;
+    width: 1904px;
+}
